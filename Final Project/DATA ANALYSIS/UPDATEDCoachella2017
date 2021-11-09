@@ -1,0 +1,153 @@
+,Artist,CoachellaRank,SpotCurrentPopularity,SpotFollowers,SpotPrimaryGenre,DayPerformedCoachella,NameMatch?
+0,Radiohead,1.0,79.0,5678302.0,alternative rock,Friday,Y
+1,The xx,2.0,70.0,3558850.0,downtempo,Friday,Y
+2,Travis Scott,3.0,93.0,13929042.0,rap,Friday,Y
+3,Father John Misty,4.0,65.0,582395.0,freak folk,Friday,Y
+4,Empire of the Sun,5.0,71.0,998972.0,alternative dance,Friday,Y
+5,Dillon Francis,6.0,68.0,1019479.0,big room,Friday,Y
+6,Mac Miller,7.0,85.0,5152299.0,hip hop,Friday,Y
+7,Steve Angello,8.0,60.0,523566.0,big room,Friday,Y
+8,Glass Animals,9.0,78.0,1385402.0,gauze pop,Friday,Y
+9,Phantogram,10.0,61.0,591933.0,alternative dance,Friday,Y
+10,Mac DeMarco,11.0,75.0,1686670.0,edmonton indie,Friday,Y
+11,Little Dragon,12.0,65.0,542978.0,alternative dance,Friday,Y
+12,BANKS,13.0,65.0,927425.0,alternative r&b,Friday,Y
+13,Bonobo,14.0,68.0,1085288.0,downtempo,Friday,Y
+14,Richie Hawtin,15.0,40.0,203237.0,acid house,Friday,Y
+15,DJ Shadow,16.0,66.0,434699.0,big beat,Friday,Y
+16,Loco Dice,17.0,42.0,141689.0,german techno,Friday,Y
+17,Dixon,18.0,40.0,62352.0,german house,Friday,Y
+18,Capital Cities,19.0,67.0,707161.0,alternative dance,Friday,Y
+19,Big Gigantic,20.0,60.0,213622.0,edm,Friday,Y
+20,Crystal Castles,21.0,64.0,816600.0,alternative dance,Friday,Y
+21,SOHN,22.0,52.0,244487.0,electropop,Friday,Y
+22,Jagwar Ma,23.0,38.0,98607.0,australian indie,Friday,Y
+23,Francis and the Lights,24.0,57.0,132418.0,alternative r&b,Friday,Y
+24,Broods,25.0,60.0,443963.0,auckland indie,Friday,Y
+25,Guided By Voices,26.0,51.0,110152.0,alternative pop,Friday,Y
+26,Preservation Hall Jazz Band,27.0,49.0,53757.0,brass band,Friday,Y
+27,D.R.A.M,28.0,1.0,4569.0,Genre not found,Friday,Y
+28,Sampha,29.0,64.0,474944.0,alternative r&b,Friday,Y
+29,Bicep,30.0,65.0,216467.0,ambient house,Friday,Y
+30,Raury,31.0,57.0,173706.0,psychedelic hip hop,Friday,Y
+31,The Martinez Brothers,32.0,59.0,133819.0,minimal tech house,Friday,Y
+32,Oh Wonder,33.0,72.0,952632.0,electropop,Friday,Y
+33,Stormzy,34.0,80.0,2064530.0,grime,Friday,Y
+34,Zipper Club,35.0,15.0,1596.0,Genre not found,Friday,Y
+35,Tennis,36.0,57.0,204503.0,art pop,Friday,Y
+36,Shannon McManus,37.0,50.0,144.0,Genre not found,Friday,N
+37,SNBRN,38.0,61.0,82359.0,bass house,Friday,Y
+38,King Gizzard & The Lizard Wizard,39.0,68.0,577276.0,australian indie,Friday,Y
+39,Kungs,40.0,66.0,701044.0,edm,Friday,Y
+40,Floorplan,41.0,43.0,29485.0,chicago house,Friday,Y
+41,Denzel Curry,42.0,75.0,1453449.0,dark trap,Friday,Y
+42,The Lemon Twigs,43.0,45.0,100175.0,baroque pop,Friday,Y
+43,Nora En Pure,44.0,65.0,230620.0,deep house,Friday,Y
+44,Joseph,45.0,56.0,90194.0,folk-pop,Friday,Y
+45,The Interrupters,46.0,58.0,194988.0,punk,Friday,Y
+46,Sam Gellaitry,47.0,44.0,70614.0,electronic trap,Friday,Y
+47,Dudu Tassa,48.0,47.0,100421.0,israeli pop,Friday,N
+48,Klangstof,49.0,42.0,30976.0,dutch indie,Friday,Y
+49,Tacocat,50.0,36.0,37175.0,bubblegrunge,Friday,Y
+51,Surfbort,52.0,31.0,13580.0,australian garage punk,Friday,N
+52,Diamante Eléctrico,53.0,47.0,46820.0,colombian rock,Friday,N
+53,Tall Juan,54.0,17.0,3410.0,multidisciplinary,Friday,Y
+54,The Paranoyds,55.0,23.0,6625.0,la indie,Friday,Y
+55,Lady Gaga,1.0,88.0,14918804.0,dance pop,Saturday,Y
+56,Bon Iver,2.0,79.0,2819894.0,eau claire indie,Saturday,Y
+57,Future,3.0,91.0,9586191.0,atl hip hop,Saturday,Y
+58,DJ Snake,4.0,80.0,7139426.0,dance pop,Saturday,Y
+59,Martin Garrix,5.0,81.0,14001555.0,big room,Saturday,Y
+60,ScHoolboy Q,6.0,77.0,3428945.0,gangster rap,Saturday,Y
+61,Gucci Mane,7.0,82.0,3571419.0,atl hip hop,Saturday,Y
+62,The Head and the Heart,8.0,70.0,872811.0,folk-pop,Saturday,Y
+63,Two Door Cinema Club,9.0,70.0,1953247.0,indietronica,Saturday,Y
+64,Nicolas Jaar,10.0,58.0,571151.0,downtempo,Saturday,Y
+65,Bastille,11.0,79.0,4564977.0,metropopolis,Saturday,N
+66,Tycho,12.0,64.0,587837.0,chillwave,Saturday,Y
+67,Tory Lanez,13.0,84.0,3362676.0,canadian hip hop,Saturday,Y
+68,Röyksopp,14.0,63.0,666678.0,alternative dance,Saturday,Y
+69,Local Natives,15.0,66.0,532859.0,chillwave,Saturday,Y
+70,Majid Jordan,16.0,67.0,548498.0,alternative r&b,Saturday,Y
+71,DREAMCAR,17.0,29.0,21199.0,electronic rock,Saturday,Y
+72,Four Tet,18.0,64.0,486299.0,alternative dance,Saturday,Y
+73,Róisín Murphy,19.0,59.0,214720.0,alternative dance,Saturday,Y
+74,Moderat,20.0,59.0,519985.0,alternative dance,Saturday,Y
+75,The Avalanches,21.0,62.0,327665.0,alternative dance,Saturday,Y
+76,Mura Masa,22.0,68.0,553985.0,channel islands indie,Saturday,Y
+77,NAV,23.0,87.0,2277296.0,canadian hip hop,Saturday,Y
+78,Solomun,24.0,63.0,596358.0,german techno,Saturday,Y
+79,Warpaint,25.0,54.0,394362.0,alternative dance,Saturday,Y
+80,Banks & Steelz,26.0,32.0,25729.0,wu fam,Saturday,N
+82,Classixx,28.0,49.0,62437.0,alternative dance,Saturday,Y
+83,KALEO,29.0,71.0,1096915.0,icelandic indie,Saturday,Y
+84,Breakbot,30.0,61.0,358527.0,alternative dance,Saturday,Y
+85,Gryffin,31.0,76.0,615563.0,dance pop,Saturday,Y
+86,Car Seat Headrest,32.0,62.0,304242.0,alternative rock,Saturday,Y
+87,Daphni,33.0,46.0,67396.0,bass music,Saturday,Y
+88,Brodinski,34.0,39.0,60447.0,destroy techno,Saturday,N
+89,Mitski,35.0,72.0,428530.0,art pop,Saturday,Y
+90,Floating Points,36.0,55.0,198039.0,bass music,Saturday,Y
+91,Thundercat,37.0,72.0,636214.0,afrofuturism,Saturday,Y
+92,Survive Said The Prophet,38.0,58.0,111364.0,j-poprock,Saturday,N
+93,Arkells,39.0,55.0,133602.0,canadian indie,Saturday,Y
+94,The Atomics,40.0,8.0,3326.0,Genre not found,Saturday,Y
+95,Ben Utomo,41.0,39.0,5956.0,indonesian hip hop,Saturday,N
+96,Bishop Briggs,42.0,69.0,635286.0,electropop,Saturday,N
+97,Blossoms,43.0,62.0,306700.0,english indie rock,Saturday,Y
+98,Chicano Batman,44.0,53.0,151459.0,la indie,Saturday,Y
+99,Surf Curse,45.0,63.0,232406.0,indie garage rock,Saturday,Y
+100,Autograf,46.0,60.0,89929.0,deep tropical house,Saturday,Y
+101,Red Axes,47.0,44.0,38901.0,float house,Saturday,Y
+102,Shura,48.0,52.0,177574.0,dance pop,Saturday,Y
+103,Honey Dijon,49.0,51.0,55273.0,deep house,Saturday,Y
+104,Eli Young Band,50.0,64.0,608935.0,contemporary country,Saturday,N
+105,Swet Shop Boys,51.0,31.0,21872.0,conscious hip hop,Saturday,Y
+106,Chris Cruse,52.0,1.0,2.0,Genre not found,Saturday,Y
+107,Downtown Boys,53.0,23.0,13898.0,rhode island indie,Saturday,Y
+108,Slow Hollows,54.0,39.0,47243.0,indie garage rock,Saturday,Y
+109,Thee Commons,55.0,22.0,6120.0,latin afrobeat,Saturday,Y
+110,Las Ligas Menores,56.0,46.0,51258.0,argentine alternative rock,Saturday,Y
+111,QUITAPENAS,57.0,23.0,5104.0,latin afrobeat,Saturday,Y
+112,Kendrick Lamar,1.0,87.0,15962252.0,conscious hip hop,Sunday,Y
+113,Lorde,2.0,79.0,6770542.0,art pop,Sunday,Y
+114,Justice,3.0,62.0,943581.0,alternative dance,Sunday,Y
+115,New Order,4.0,69.0,1343177.0,art rock,Sunday,Y
+116,Porter Robinson,5.0,66.0,830613.0,big room,Sunday,N
+117,Future Islands,6.0,64.0,433859.0,alternative dance,Sunday,Y
+118,Hans Zimmer,7.0,78.0,2314846.0,german soundtrack,Sunday,Y
+119,DJ Khaled,8.0,82.0,5377444.0,dance pop,Sunday,Y
+120,Marshmello,9.0,88.0,28183416.0,brostep,Sunday,N
+121,Lil Uzi Vert,10.0,91.0,10299084.0,melodic rap,Sunday,Y
+122,Galantis,11.0,76.0,2999241.0,big room,Sunday,Y
+123,Kehlani,12.0,81.0,4110196.0,dance pop,Sunday,Y
+124,Grouplove,13.0,71.0,938397.0,indie pop,Sunday,Y
+125,KAYTRANADA,14.0,71.0,757287.0,escape room,Sunday,Y
+126,Tale Of Us,15.0,54.0,219138.0,deep disco house,Sunday,Y
+127,Skepta,16.0,78.0,844598.0,birmingham grime,Sunday,Y
+128,Toots & The Maytals,17.0,60.0,333404.0,reggae,Sunday,N
+129,Devendra Banhart,18.0,62.0,495774.0,freak folk,Sunday,Y
+130,Tove Lo,19.0,78.0,2594174.0,dance pop,Sunday,Y
+131,Jai Wolf,20.0,62.0,222588.0,edm,Sunday,Y
+132,Jack Garratt,21.0,56.0,340567.0,Genre not found,Sunday,Y
+133,Sasha Sloan,22.0,77.0,689912.0,electropop,Sunday,N
+134,Kiiara,23.0,68.0,717492.0,dance pop,Sunday,Y
+135,T.S.O.L.,24.0,44.0,72746.0,hardcore punk,Sunday,Y
+136,Real Estate,25.0,57.0,345636.0,chillwave,Sunday,Y
+137,The Belleville Three,26.0,8.0,323.0,Genre not found,Sunday,Y
+138,Maya Jane Coles,27.0,57.0,181969.0,deep disco house,Sunday,Y
+139,What So Not,28.0,61.0,270182.0,aussietronica,Sunday,Y
+140,PNL,29.0,74.0,3476512.0,french hip hop,Sunday,Y
+141,Lee Fields & The Expressions,30.0,55.0,114713.0,afrobeat,Sunday,Y
+142,Nao,31.0,64.0,429473.0,alternative r&b,Sunday,Y
+143,GoldLink,32.0,71.0,682586.0,alternative r&b,Sunday,Y
+144,Allah-Las,33.0,56.0,202070.0,freak folk,Sunday,Y
+145,Hinds,34.0,46.0,109352.0,bubblegrunge,Sunday,Y
+146,Ezra Furman,35.0,52.0,116515.0,alternative pop,Sunday,Y
+147,Pond,36.0,55.0,241196.0,indie rock,Sunday,Y
+148,Anna Lunoe,37.0,45.0,43589.0,electra,Sunday,Y
+149,Grace Mitchell,38.0,43.0,53400.0,indie poptimism,Sunday,Y
+150,Los Blenders,39.0,42.0,32987.0,latin rock,Sunday,Y
+151,Show Me the Body,40.0,46.0,47064.0,noise punk,Sunday,Y
+152,Caveman,41.0,29.0,18638.0,brooklyn indie,Sunday,Y
+153,Jon Ferreira,42.0,50.0,67.0,Genre not found,Sunday,N
