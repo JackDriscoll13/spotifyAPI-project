@@ -1,9 +1,10 @@
-## Overview
+### Statement for Employers
 
 This was one of my first data science projects. Looking back a year and a half later, my process was flawed
 and my code was messy. However, it is still a good example of my profiency making api calls and cleaning data 
 using pandas. Please see FinalProjectWriteup.pdf for a more detailed breakdown of my process.
 
+### Project Summary
 
 This project used the spotify api to explore a wide variety of music data. Through spotify, I
 was able to collect relevant information on top artists, genres, and playlists, and effectively store
